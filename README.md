@@ -18,8 +18,7 @@ I am a Computer Science student focused on **high-performance systems**, **memor
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuefKevin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuefKevin&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github.com/RuefKevin/RuefKevin/releases/download/latest/github-metrics.svg" alt="GitHub Stats" height="150" />
 </p>
 
 ---
