@@ -17,7 +17,7 @@ I am a Computer Science student focused on **high-performance systems**, **memor
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📈 GitHub Stats
-![My Metrics](https://github.com/DEIN-NUTZERNAME/DEIN-NUTZERNAME/releases/download/latest/github-metrics.svg)
+![My Metrics](https://github.com/RuefKevin/RuefKevin/releases/download/latest/github-metrics.svg)
 
 ---
 
