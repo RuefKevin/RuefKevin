@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Automatisch alle 24 Stunden aktualisieren
   schedule: [{cron: "0 0 * * *"}]
-  # Manuell auslösbar
   workflow_dispatch:
-  # Bei jedem Push auf den main-branch
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -17,7 +14,6 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Europe/Berlin
-          # Hier kannst du deine Sprachen (Rust, Java etc.) hervorheben
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
