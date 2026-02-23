@@ -16,10 +16,6 @@ I am a Computer Science student focused on **high-performance systems**, **memor
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
 ---
 
 ## 🔭 Current Focus
