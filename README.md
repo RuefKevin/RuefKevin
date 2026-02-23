@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin Ruef! 👋
+# Hi there 👋
 
 ## 🚀 About Me
 I am a Computer Science student focused on **high-performance systems**, **memory safety**, and **scalable backend architectures**. I enjoy bridging the gap between low-level efficiency and robust enterprise solutions.
