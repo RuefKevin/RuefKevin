@@ -30,4 +30,4 @@ I am a Computer Science student focused on **high-performance systems**, **memor
 - ☁️ Exploring Cloud-Native architectures and Agentic AI
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-ruef-7019223b2)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ruef-7019223b2)
