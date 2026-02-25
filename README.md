@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am a Computer Science student focused on **high-performance systems**, **memory safety**, and **scalable backend architectures**. I enjoy bridging the gap between low-level efficiency and robust enterprise solutions.
+I am a Computer Science student focused on **cyber security**, **memory safety**, and **scalable backend architectures**. I enjoy bridging the gap between low-level efficiency and robust enterprise solutions.
 
 - 🦀 **Rust Enthusiast:** Building safe and concurrent systems.
 - ⚙️ **Systems Programming:** Leveraging C++ for performance-critical applications.
