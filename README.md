@@ -1,12 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am a Computer Science student focused on **cyber security**, **memory safety**, and **scalable backend architectures**. I enjoy bridging the gap between low-level efficiency and robust enterprise solutions.
-
-- 🦀 **Rust Enthusiast:** Building safe and concurrent systems.
-- ⚙️ **Systems Programming:** Leveraging C++ for performance-critical applications.
-- ☕ **Enterprise Solutions:** Developing scalable backends with Java.
-- 🐍 **Scripting & AI:** Using Python for rapid prototyping and data automation.
+I am a Computer Science student focused on **cyber security**, **memory safety**, and **scalable backend architectures**. 
 
 ---
 
@@ -24,4 +19,4 @@ I am a Computer Science student focused on **cyber security**, **memory safety**
 - ☁️ Exploring Cloud-Native architectures and Agentic AI
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ruef-7019223b2)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruefkevin)
